@@ -3,3 +3,11 @@ A Python script that scrapes and rips all files, discussions from Moodle based C
 This script has been tested for Sem II 2018-2019 and found to work. However, there will always be edge cases which will require correction each sem.
 
 The entire backup can be found [here]( https://tinyurl.com/cms-backups)
+
+# Installation
+ Switch to a virtualenv and then install the dependencies using
+ `pip install -r requirements. txt`
+
+ 
+
+ 
